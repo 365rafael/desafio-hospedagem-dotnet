@@ -21,3 +21,5 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 ![Diagrama de classe estacionamento](diagrama_classe_hotel.png)
 
 ## Solução
+
+![image](https://user-images.githubusercontent.com/97065934/195620214-707e687c-da95-49cd-a41d-e9988f544b42.png)
